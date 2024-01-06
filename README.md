@@ -5,12 +5,14 @@
 
 This project is a Python application that does valuation, performance & momentum analysis. The script starts by reading a configuration file `input/config.json` that is used as an editable input file for the project.
 
-The script then 
-- calculates market valuation metrics using the P/E and P/B ratio data in `input/index_valuation_metrics.json`. 
-- calculates market performance using the real time historical price/level of a broad market index.
-- calculates return and volatility for stocks of a broad market index that can be viewed to judge the momentum in the market.
+**_The script then_**
+- calculates market **valuation** metrics using the P/E and P/B ratio data in `input/index_valuation_metrics.json`. 
+- calculates market **performance** using the real time historical price/level of a broad market index and compares it to average performance older periods.
+- calculates return and volatility for stocks of a broad market index that can be viewed to judge the **momentum** in the market.
 
-The application then stores the output in the output folder and also sends the output to the user over email.
+**_The output can be found in output folder or sent over email which contains_**
+- An excel file containing three sheets for Valuation, Performance and Momentum Analysis
+- A png file plotting the market performance data.
 
 --------------------------------------------------------------------------
 
