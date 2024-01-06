@@ -35,8 +35,6 @@ The script is designed to be run periodically (e.g., daily or weekly) to provide
 
 ### Future Scope
 
-In the future, we plan to add more features to this project, such as:
-
 - Support for more financial indicators.
 - Integration with more data sources.
 - Advanced data visualization features.
