@@ -1,5 +1,0 @@
-data - 
-https://www1.nseindia.com/products/content/equities/indices/historical_index_data.htm
-
-nifty100 - 
-https://www1.nseindia.com/products/content/equities/indices/historical_pepb.htm

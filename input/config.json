@@ -1,0 +1,14 @@
+{
+    "index_ticker" : "^NSEI",
+    "valuation_metrics_file" : "input/index_valuation_metrics.csv",
+    "periods" : [30, 60, 90, 150, 200],
+    "mkt_perf_time_period" : "3y",
+    "momentum_time_period" : "1y",
+    "output_excel_file" : "output/valuation_perf_momentum.xlsx",
+    "output_fig_file" : "output/market_performance.png",
+    "email_subject" : "Valuation, Performance & Momentum Report",
+    "email_body" : "Please find attached the latest valuation, performance & momentum report for the Indian stock market.",
+    "email_to" : "nishant26sachdev@gmail.com",
+    "email_from" : "krishnakaka4141@gmail.com",
+    "email_password" : "hifzuyqbgonxjtcx"
+}
